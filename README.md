@@ -2,7 +2,7 @@
 
 ![image](https://github.com/ChidimmaIdika/ComputerVision-Face-Eye-Detection/assets/137975543/836b9986-7bc8-42f5-bf09-544c6fb3bc26)
 
-# Face and Eye Detection using OpenCV
+## Face and Eye Detection using OpenCV
 
 ## Table of Contents
 1. [Overview](#overview)
