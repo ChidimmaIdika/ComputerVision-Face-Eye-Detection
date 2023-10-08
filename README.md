@@ -32,7 +32,7 @@ You can install OpenCV and NumPy using pip:
 
 ## How to Use
 1. Clone this repository:   
-git clone https://github.com/your-username/face-eye-detection.git
+git clone https://github.com/ChidimmaIdika/ComputerVision-Face-Eye-Detection.git
 cd face-eye-detection
 3. Run the face_eye_detection.py script:   
    python face_eye_detection.py
