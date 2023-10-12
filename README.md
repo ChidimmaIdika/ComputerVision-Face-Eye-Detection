@@ -46,6 +46,9 @@ The detect function takes the grayscale image and the original frame and returns
 
 ## Sample Output
 ![chi](https://github.com/ChidimmaIdika/ComputerVision-Face-Eye-Detection/assets/137975543/feed5181-2403-4d66-8a85-8eb2471c23ad)
+![FE_D](https://github.com/ChidimmaIdika/ComputerVision-Face-Eye-Detection/assets/137975543/f0ff2c15-d59d-4b0a-9638-b14baae74777)
+![F_E_D_](https://github.com/ChidimmaIdika/ComputerVision-Face-Eye-Detection/assets/137975543/e23c11ec-e7dd-4ffc-aa1a-d1bada02c0ca)
+
 
 ## License
 This project is licensed under the MIT License.
